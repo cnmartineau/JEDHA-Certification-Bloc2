@@ -1,7 +1,5 @@
 # Bloc 2 - Analyse exploratoire, descriptive et inférentielle de données - Speed dating with Tinder
 
-[Presentation video](https://share.vidyard.com/watch/U6vohneBkqgf52Fz1Lt34L?)
-
 ### Introduction
 
 Tinder is an online dating and geosocial networking application launched in 2012. It is the world’s most popular application for meeting new people. The application is available in over 190 countries and 56 languages. It has been downloaded more than 530 million times and led to more than 75 billion matches. In 2023, Tinder had 10.9 million subscribers and 75 million monthly active users. 
